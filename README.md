@@ -1,2 +1,2 @@
 # AppUsageTimer
-專題作品
+專題作品-redesign version
