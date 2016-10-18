@@ -15,26 +15,26 @@ AppUsageTimer 是用來記錄自己花了多少時間在APP上
 <img src="https://raw.githubusercontent.com/Derrick567/AppUsageTimer/master/images/img2.jpg" width="25%" height="25%">
 </div>
 <br/><br/>
-2.開啟本APP後 ，選取
+2.開啟AppUsageTimer後 ，點擊
 <img src="https://raw.githubusercontent.com/Derrick567/AppUsageTimer/master/images/003.png" width="20px" height="20px"> 圖示
 
 <div>
 <img src="https://raw.githubusercontent.com/Derrick567/AppUsageTimer/master/images/002.png" width="25%" height="25%">
 </div>
 <br/><br/>
-3.進入APP清單，選取想計時的APP ，可直接全選
+3.這裡會列出進入所有你安裝的APP，選取想計時的APP ，也可直接點選"全選"
 <div>
   <img src="https://raw.githubusercontent.com/Derrick567/AppUsageTimer/master/images/img3.jpg" width="25%" height="25%"> 
 </div>  
 <br/><br/>
-4.開啟已勾選的APP時 ， 右上角計時視窗會自動出現顯示，並開始計時
+4.離開AppUsageTimer ，開啟已勾選的APP時(此圖已LINE為例) ， 右上角計時視窗會自動出現顯示，並開始計時
 <div>
 <img src="https://raw.githubusercontent.com/Derrick567/AppUsageTimer/master/images/img1.jpg" width="25%" height="25%">
 </div>
 <br/><br/>
-5.離開APP或當APP不再在前景時計時即暫停
+5.當離開APP或切換到其他APP時計時即暫停
 <br/><br/>
-6.回到AppUsageTimer可查看所有紀錄，亦即每個APP使用了多久 ， 可查看每天的紀錄
+6.回到AppUsageTimer可查看所有紀錄， 可查看每天的紀錄
 <div>
 <img src="https://raw.githubusercontent.com/Derrick567/AppUsageTimer/master/images/ill4_1.jpg" width="25%" height="25%">
 <img src="https://raw.githubusercontent.com/Derrick567/AppUsageTimer/master/images/img4.jpg" width="25%" height="25%">
