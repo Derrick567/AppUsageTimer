@@ -8,7 +8,8 @@
 使用說明
 
 <div>
-1.  開啟本APP選取<img src="https://raw.githubusercontent.com/Derrick567/AppUsageTimer/master/images/003.png" width="10px" height="10px">
+1.  開啟本APP選取 <br>
+<img src="https://raw.githubusercontent.com/Derrick567/AppUsageTimer/master/images/003.png" width="20px" height="20px">
 </div>
 
 <div>
