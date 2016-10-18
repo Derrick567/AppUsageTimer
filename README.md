@@ -31,8 +31,11 @@ AppUsageTimer 是用來記錄自己花了多少時間在APP上  
 
 5.離開APP或當APP不再在前景時計時即暫停
 
-6.回到AppUsageTimer可查看所有紀錄 ，可查看每天的紀錄
+6.回到AppUsageTimer可查看所有紀錄，亦即每個APP使用了多久 ， 可查看每天的紀錄
 <div>
 <img src="https://raw.githubusercontent.com/Derrick567/AppUsageTimer/master/images/ill4_1.jpg" width="25%" height="25%">
 <img src="https://raw.githubusercontent.com/Derrick567/AppUsageTimer/master/images/img4.jpg" width="25%" height="25%">
 </div>
+<br/><br/>
+7.補充說明 : 1.離開APP或當APP不再在前景時，計時即暫停，重回到APP恢復計時
+            2.每日00:00時會自動存檔 ，計時視窗時間自動重置
