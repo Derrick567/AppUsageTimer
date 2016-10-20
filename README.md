@@ -1,4 +1,4 @@
-# AppUsageTimer (專題作品-redesign version )
+# AppUsageTimer (專題作品重做版 )
  
 AppUsageTimer 是用來記錄自己花了多少時間在APP上 
 
